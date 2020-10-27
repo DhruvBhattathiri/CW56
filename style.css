@@ -1,0 +1,10 @@
+body{
+    background-color: aqua;
+    text-align: center;
+    font-family: cursive;
+    color: darkorange; 
+}
+img{
+    border: 20px black solid;
+    margin: 30px;
+}
